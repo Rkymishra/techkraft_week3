@@ -1,0 +1,71 @@
+﻿@model List<ProductModel>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <h6 class="mb-1">No Good UI</h6>
+    <div class="container row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-3 mb-2">
+                <h2>@item.ProductName</h2>
+                <button type="submit" class="btn btn-success"
+                        onclick="orderProductNow(@item.Id)">
+                    Place Order
+                </button>
+            </div>
+        }
+    </div>
+
+</div>
+<script>
+    function orderProductNow(itemId) {
+
+        var newData = {
+            "Id": itemId,
+            "ProductName": "",
+        };
+
+        var dataJson = JSON.stringify(newData);
+        var ajaxSettings = {
+            type: 'POST',
+            url: 'ProductApi/OrderProduct/',
+            data: dataJson,
+            contentType: 'application/json',
+            retries: 5
+        };
+
+
+
+
+        $.ajax({
+            url: 'ProductApi/OrderProduct/',
+            data: dataJson,
+            contentType: 'application/json',
+            type: 'post',
+            success: function (result) {
+                console.table(result)
+                confirm(result);
+            },
+            error: function () {
+                if (ajaxSettings.retries-- > 0) {
+                    setTimeout(function () {
+                        console.log("Retrying. Attempt #1");
+                        $.ajax(ajaxSettings).fail(onFail);
+                    }, 1000);
+                }
+            }
+
+        });
+        function onFail() {
+            console.log(`Retrying. Attempt #${6 - ajaxSettings.retries}`)
+            if (ajaxSettings.retries-- > 1)
+                setTimeout(function () {
+                    $.ajax(ajaxSettings).fail(onFail);
+                }, (6 - ajaxSettings.retries) * 1000);
+        }
+    }
+
+</script>

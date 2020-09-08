@@ -1,0 +1,122 @@
+D:/All - Dot Net/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/week3App.AssemblyInfoInputs.cache
+D:/All - Dot Net/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/week3App.AssemblyInfo.cs
+D:/All - Dot Net/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/week3App.RazorAssemblyInfo.cache
+D:/All - Dot Net/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/week3App.RazorAssemblyInfo.cs
+D:/All - Dot Net/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/week3App.TagHelpers.input.cache
+D:/All - Dot Net/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/week3App.TagHelpers.output.cache
+D:/All - Dot Net/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/week3App.dll
+D:/All - Dot Net/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/week3App.pdb
+D:/All - Dot Net/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/All - Dot Net/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/appsettings.json
+D:/All - Dot Net/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+D:/All - Dot Net/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/week3App.exe
+D:/All - Dot Net/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/week3App.deps.json
+D:/All - Dot Net/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/week3App.runtimeconfig.json
+D:/All - Dot Net/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/week3App.runtimeconfig.dev.json
+D:/All - Dot Net/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/week3App.dll
+D:/All - Dot Net/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/week3App.pdb
+D:/All - Dot Net/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/week3App.Views.dll
+D:/All - Dot Net/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/week3App.Views.pdb
+D:/All - Dot Net/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/week3App.csprojAssemblyReference.cache
+D:/All - Dot Net/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/week3App.RazorCoreGenerate.cache
+D:/All - Dot Net/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+D:/All - Dot Net/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+D:/All - Dot Net/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+D:/All - Dot Net/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+D:/All - Dot Net/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+D:/All - Dot Net/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+D:/All - Dot Net/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+D:/All - Dot Net/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/week3App.RazorTargetAssemblyInfo.cache
+D:/All - Dot Net/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/week3App.RazorTargetAssemblyInfo.cs
+D:/All - Dot Net/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/week3App.Views.pdb
+D:/All - Dot Net/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/staticwebassets/week3App.StaticWebAssets.Manifest.cache
+D:/All - Dot Net/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/staticwebassets/week3App.StaticWebAssets.xml
+D:/All - Dot Net/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/week3App.genruntimeconfig.cache
+D:/All - Dot Net/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/week3App.csproj.CopyComplete
+D:/All - Dot Net/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/libman.json
+D:/All - Dot Net/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/Automatonymous.dll
+D:/All - Dot Net/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/GreenPipes.dll
+D:/All - Dot Net/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/MassTransit.dll
+D:/All - Dot Net/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+D:/All - Dot Net/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+D:/All - Dot Net/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/NewId.dll
+D:/All - Dot Net/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+D:/All - Dot Net/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+D:/All - Dot Net/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+D:/All - Dot Net/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/System.Threading.Channels.dll
+D:/All - Dot Net/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/MassTransit.RabbitMqTransport.dll
+D:/All - Dot Net/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/RabbitMQ.Client.dll
+D:/All - Dot Net/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/MassTransit.AspNetCoreIntegration.dll
+D:/All - Dot Net/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/MassTransit.ExtensionsDependencyInjectionIntegration.dll
+D:/All - Dot Net/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/All - Dot Net/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+D:/All - Dot Net/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/All - Dot Net/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:/All - Dot Net/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:/All - Dot Net/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+D:/All - Dot Net/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Hosting.Abstractions.dll
+D:/All - Dot Net/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+D:/All - Dot Net/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+D:/All - Dot Net/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/week3App.csproj.CoreCompileInputs.cache
+D:/All - Dot Net/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/week3App.MvcApplicationPartsAssemblyInfo.cache
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/appsettings.json
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/libman.json
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/week3App
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/week3App.deps.json
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/week3App.runtimeconfig.json
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/week3App.runtimeconfig.dev.json
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/week3App.dll
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/week3App.pdb
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/week3App.Views.dll
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/week3App.Views.pdb
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/Automatonymous.dll
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/GreenPipes.dll
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/MassTransit.dll
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/MassTransit.AspNetCoreIntegration.dll
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/MassTransit.ExtensionsDependencyInjectionIntegration.dll
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/MassTransit.RabbitMqTransport.dll
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Hosting.Abstractions.dll
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/NewId.dll
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/RabbitMQ.Client.dll
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/bin/Debug/netcoreapp3.1/System.Threading.Channels.dll
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/week3App.csprojAssemblyReference.cache
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/week3App.AssemblyInfoInputs.cache
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/week3App.AssemblyInfo.cs
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/week3App.csproj.CoreCompileInputs.cache
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/week3App.MvcApplicationPartsAssemblyInfo.cache
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/week3App.RazorAssemblyInfo.cache
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/week3App.RazorAssemblyInfo.cs
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/week3App.TagHelpers.input.cache
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/week3App.TagHelpers.output.cache
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/week3App.RazorCoreGenerate.cache
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/week3App.RazorTargetAssemblyInfo.cache
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/week3App.RazorTargetAssemblyInfo.cs
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/week3App.Views.pdb
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/week3App.csproj.CopyComplete
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/staticwebassets/week3App.StaticWebAssets.Manifest.cache
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/staticwebassets/week3App.StaticWebAssets.xml
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/week3App.dll
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/week3App.pdb
+/home/rkymishra/Desktop/TechKraft/Week 3/week3App/obj/Debug/netcoreapp3.1/week3App.genruntimeconfig.cache
